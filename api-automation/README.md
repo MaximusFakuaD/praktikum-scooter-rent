@@ -10,6 +10,9 @@
 - Python 3.8+
 - Библиотека requests
 
+## Перед запуском
+В файле test_api.py замените {id} на актуальный
+
 ## Запуск
 ```bash
 python test_api.py
