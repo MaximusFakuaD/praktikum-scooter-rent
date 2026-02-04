@@ -18,7 +18,7 @@
   - `screenshots/` — скрин успешного запуска теста  
 
 ## Окружение
-- ОС: Windows 11  
+- ОС: Windows 11 24H2 (26100, 1742)
 - Инструменты: Git Bash, VS Code, Python 3, psql (PostgreSQL client), requests  
 - Доступ к БД: через SSH к серверу тренажёра + psql локально на сервере  
 - Доступ к API: тестовый стенд {актуальный_id}.serverhub.praktikum-services.ru
