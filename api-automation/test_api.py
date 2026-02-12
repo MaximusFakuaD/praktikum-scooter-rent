@@ -1,6 +1,7 @@
+# Корнеев Леонид, 40-я когорта — Финальный проект. Инженер по тестированию плюс
 import requests
 
-BASE_URL = "https://a9bcef8b-faff-42bf-afb1-ecfc1b677dc1.serverhub.praktikum-services.ru"
+BASE_URL = "https://b4f6d486-3dcc-496d-940a-01110f32b65f.serverhub.praktikum-services.ru"
 
 def create_order():
     payload = {
