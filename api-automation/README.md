@@ -29,5 +29,5 @@ api-automation/
 - Python 3.8+
 - Библиотеки:
     - requests
-    - pytest (для запуска тестов)
+    - pytest
 
