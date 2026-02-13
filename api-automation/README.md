@@ -22,7 +22,7 @@ api-automation/
 - `.gitignore` - игнорирование служебных и ненужных файлов 
 
 ## Перед запуском
-В файле test_api.py заменить {id} на актуальный
+В файле configuration.py заменить ссылку в URL_SERVICE на актуальную
 
 ## Требования
 
@@ -30,4 +30,3 @@ api-automation/
 - Библиотеки:
     - requests
     - pytest
-
