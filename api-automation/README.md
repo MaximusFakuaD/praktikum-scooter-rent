@@ -13,13 +13,13 @@
 ## Структура проекта
 
 api-automation/
-- `configuration.py`          # базовый URL и пути эндпоинтов
-- `data.py`                  # заголовки и тело запроса
-- `sender_stand_request.py`   # функции для HTTP-запросов
-- `test_order_creation.py`    # файл с автотестами (pytest)
+- `configuration.py` - базовый URL и пути эндпоинтов
+- `data.py` - заголовки и тело запроса
+- `sender_stand_request.py` - функции для HTTP-запросов
+- `test_order_creation.py` - файл с автотестами (pytest)
 
-- `README.md` — этот файл с описанием проекта  
-- `.gitignore` — игнорирование служебных и ненужных файлов 
+- `README.md` - файл с описанием проекта  
+- `.gitignore` - игнорирование служебных и ненужных файлов 
 
 ## Перед запуском
 В файле test_api.py заменить {id} на актуальный
