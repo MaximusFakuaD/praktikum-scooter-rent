@@ -24,14 +24,10 @@ api-automation/
 ## Перед запуском
 В файле test_api.py заменить {id} на актуальный
 
-## Технологии и зависимости
+## Требования
 
 - Python 3.8+
-- requests
-- pytest (для запуска тестов)
-
-## Установка зависимостей
-
-```bash
-pip install requests pytest
+- Библиотеки:
+    - requests
+    - pytest (для запуска тестов)
 
